@@ -1,2 +1,2 @@
 # Wanant-store
-Pusat perbelanjaan 
+Indonesia berbelanja
